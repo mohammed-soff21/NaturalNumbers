@@ -11,7 +11,7 @@
             while (true)
             {
                 // Welcome message
-                WelcomeApp("printing the nutural numbers from 1 to the user input");
+                WelcomeApp("printing the natural numbers from 1 to the user input");
                 // ask the user to enter a number, then validate it
                 // label: do-while loop to ensure the user input is a valid number and is +ve
                 Validate:
