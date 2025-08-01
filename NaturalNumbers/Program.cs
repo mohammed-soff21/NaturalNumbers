@@ -116,7 +116,7 @@
         // 8) this method to print the natural numbers from 1 to the user input
         static void PrintNaturalNumbers(int number)
         {
-            Console.Write("The natural numbers is: ");
+            Console.Write("The natural numbers are: ");
             for(int nCount=1; nCount <= number;++nCount)
             {
                 if(nCount == number)
